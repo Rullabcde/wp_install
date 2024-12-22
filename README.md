@@ -1,0 +1,1 @@
+automatic WordPress installation script
